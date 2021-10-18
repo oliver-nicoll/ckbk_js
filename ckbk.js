@@ -4,3 +4,5 @@ const person = {
     name: 'Nicoll O',
     age: 25
 };
+
+const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]')
