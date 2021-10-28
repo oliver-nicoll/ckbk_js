@@ -2,7 +2,7 @@
     background-color: bisque;
 }
 
-div {
+div.inbox {
     display: block;
     position: relative;
     padding-left: 50px;
@@ -18,4 +18,8 @@ input {
     height: 25px;
     width: 25px;
     background-color: #eee;
+}
+
+p {
+    position: relative;
 }
